@@ -22,7 +22,7 @@
       },
       "number": {
         "type": "string",
-        "pattern": "^•• \\d{2}$"
+        "pattern": "^•• \\d{4}$"
       },
       "balance": {
         "type": "integer",
